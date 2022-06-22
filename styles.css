@@ -3,7 +3,7 @@ body {
     line-height: 22px;
 
 }
-
+ 
 header { 
     background-color: brown;
     text-align: center;
@@ -12,6 +12,7 @@ header {
     font-family: 'Dancing Script', cursive;
     font-size: 37px;
 }
+
 header h1 {
     color: azure;
 }
