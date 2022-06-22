@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    line-height: 22px;
+
+}
+
+header { 
+    background-color: brown;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 37px;
+}
+header h1 {
+    color: azure;
+}
+
+header img {
+    border-radius: 150px;
+    width: 300px;
+    border: 7px solid rgb(173, 202, 136);
+}
+
+
+main {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 0px 30px;
+    
+}
+main img {
+    text-align: center;
+    max-width: 100%;
+    margin: 0px 0px 0px 95px;
+}
+
+h2 {
+    font-size: 35px;
+    color: brown;
+    font-family: 'Dancing Script', cursive;
+
+}
+
+a:hover{
+    background-color: brown;
+}
+
+footer{
+    text-align: center;
+    background-color: brown;
+    color: white
+    
+}
+
+footer p {
+    margin: 0;
+}
